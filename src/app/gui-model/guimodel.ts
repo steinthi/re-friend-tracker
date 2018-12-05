@@ -114,7 +114,7 @@ export class GuiModel {
                             "type": "text",
                             "name": "LocationName",
                             "width": 2,
-                            "required": true
+                            "required": true 
                         },
                         {
                             "type": "deleteButton",
