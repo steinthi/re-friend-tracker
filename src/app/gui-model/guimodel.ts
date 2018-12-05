@@ -127,7 +127,7 @@ export class GuiModel {
                         {
                             "type": "okButton",
                             "name": "Ok"
-                        }
+                        },
 						{
                             "id": "comment",
                             "type": "text",
