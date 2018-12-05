@@ -144,9 +144,9 @@ export class GuiModel {
                     "url": "/activity",
                     "formFieldList": [
                         {
-                            "id": "activityname",
+                            "id": "activity",
                             "type": "text",
-                            "name": "ActivityName",
+                            "name": "Activity",
                             "width": 2,
                             "required": true
                         },
